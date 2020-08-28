@@ -1,3 +1,3 @@
 # Codility
 
-Solution of some Codility tasks that can be found [here] (http://app.codility.com/programmers/lessons/)
+Solution of some [Codility](http://app.codility.com/programmers/lessons/) tasks
